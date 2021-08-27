@@ -1028,13 +1028,14 @@ foreignObject {
     .header__descr-text + .header__descr-text {
         margin-left: 0;
         margin-top: 14px;
-    }.special-offer__item-text {
+    }
+    .special-offer__item-text {
         font-size: 22px;
         line-height: 27px;
         width: 100%;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 340px) {
     .services__btn-first::before {
         bottom: 42px;
     }
