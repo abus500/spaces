@@ -1000,11 +1000,14 @@ foreignObject {
 
 @media (max-width: 375px) {
     .services__btn-first::before {
-        bottom: 40px;
+        bottom: 42px;
     }
 }
 
 @media (max-width: 360px){
+    .services__btn-first::before {
+        bottom: 42px;
+    }
     .phone {
         font-size: 14px;
         line-height: 19px;
